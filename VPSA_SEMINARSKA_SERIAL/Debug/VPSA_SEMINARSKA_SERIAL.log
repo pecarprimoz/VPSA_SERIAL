@@ -1,0 +1,3 @@
+﻿  VPSA_SEMINARSKA_SERIAL.cpp
+c:\users\primoz-windowsi\source\repos\vpsa_seminarska_serial\vpsa_seminarska_serial\vpsa_seminarska_serial.cpp(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  VPSA_SEMINARSKA_SERIAL.vcxproj -> C:\Users\primoz-windowsi\source\repos\VPSA_SEMINARSKA_SERIAL\Debug\VPSA_SEMINARSKA_SERIAL.exe
